@@ -14,9 +14,11 @@ Required Libraries: pandas, os, shutil, zipfile, requests
 ## Steps to Use
 ### Setup: Ensure that Python is correctly installed and the required libraries are present.
 
-### Directory Setup: Download the raw FLUXNET community product data from https://fluxnet.org/data/fluxnet-ch4-community-product/ and place it in a directory to reference as "path"
+### Directory Setup: 
+Download the raw FLUXNET community product data from https://fluxnet.org/data/fluxnet-ch4-community-product/ and place it in a directory to reference as "path"
 
-### Run the Script: Execute the main script to start the data processing workflow:
+### Run the Script: 
+Execute the main script to start the data processing workflow:
 
 *python get_daily_data_processed.py*
 
